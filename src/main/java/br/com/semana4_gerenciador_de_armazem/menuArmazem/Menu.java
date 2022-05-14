@@ -35,7 +35,6 @@ public class Menu {
                         id++;
                         Product product = new Product(id, name, value, amount);
                         products.add(product);
-
                     }
                     break;
 
